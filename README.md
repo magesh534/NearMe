@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
+```
 map.html
 <html>
 
@@ -141,7 +141,7 @@ chennairailmuseum.html
 	  with some trains in the collection dating back more than a century.[2] Toy-train rides are available. There are 3 air-conditioned Indoor Galleries (ICF Gallery, Rail History Gallery, Art Gallery, 2 Other Non-airconditioned Galleries, a 90-seater air-conditioned Dolby Digital Movie Theatre (Railway and Railway Heritage Films), Natyarangam, Amphitheatre, a Number of Metal Sculptures made from scrap, 3D MURAL at the entrance, Cartoon Hero Characters better viewed from the Joyous Toy Train Ride, Rail Coach Restaurant, Eco Green Park, Lust Green vegetation, etc.,
 	  The museum is managed and maintained by the ICF.
 </html>
-'''
+```
 
 ## OUTPUT
 ![1](https://github.com/magesh534/NearMe/assets/135577936/a27387d4-65e2-4a13-ab54-67a3d9d5557e)
