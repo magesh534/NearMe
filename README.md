@@ -30,15 +30,15 @@ map.html
 <html>
 
     <head>
-      <title>ayanavaram</title>
+      <title>Ayanavaram</title>
     </head>
     
     <body>
       <h1 align="center">
-        <font color="black"><b>ayanavaram</b></font>
+        <font color="black"><b>Ayanavaram</b></font>
       </h1>
       <h2 align="center">
-        <font color="black"><b>magesh.v(212222040092)</b></font>
+        <font color="black"><b>Magesh.v(212222040092)</b></font>
       </h2>
     
     <center>
@@ -144,7 +144,8 @@ chennairailmuseum.html
 ```
 
 ## OUTPUT
-![mapp](https://github.com/magesh534/NearMe/assets/135577936/6376894e-95c4-4688-8709-3cbe5efa8f55)
+![Screenshot 2024-04-25 220531](https://github.com/magesh534/NearMe/assets/135577936/7686647c-ed07-4998-b3a1-a8e95ca1cf18)
+
 ![1](https://github.com/magesh534/NearMe/assets/135577936/a27387d4-65e2-4a13-ab54-67a3d9d5557e)
 ![2](https://github.com/magesh534/NearMe/assets/135577936/ea6556c4-8135-429d-a9a5-661f844e0bd7)
 ![3](https://github.com/magesh534/NearMe/assets/135577936/a8e472c3-cd1d-4c64-b560-171da85687bf)
